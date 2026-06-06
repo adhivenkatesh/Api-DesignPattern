@@ -1,0 +1,23 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+
+# IDE specific files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Secrets and local configurations
+secrets.json
+.env
+
+# NuGet Packages
+*.nuget.props
+*.nuget.targets
+
+# OS specific files
+.DS_Store
+Thumbs.db
