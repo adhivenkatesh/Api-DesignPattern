@@ -1,4 +1,5 @@
-﻿using API_DesignPattern.Models.ErrorViewModel;
+// Home controller change 1
+using API_DesignPattern.Models.ErrorViewModel;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 
